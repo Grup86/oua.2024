@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-Takım 86
+Grup 86
 
 # Ürün İle İlgili Bilgiler
 
