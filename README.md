@@ -53,17 +53,17 @@ Takım 86
   ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+  Pu sprintde yazlması planlanan kodların tamamı bitti ve fazladan şeyler eklendi. Oyunun büyük bir kısmı bitti.
+  İletişim için discord yetersiz kalındığı kanatına varıldı. İletişim kopukluğuna önelem almak için whatsapp grubu oluşturulucak ve toplantılar en az bir iki gün önceden planlanacak.
+  
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Hasan oyuna ses dosyası ekleyecek ve tasarlanmış karkterlerin animasyonlarını yapacak.
+  - Asya arkaplan haritasını büyültcek.
+  - Kod kısmı geriye kalan kodları tamamlayacak.
 
 -**Diğer Notlar**:
-- N/A
-
----
+- Takımcak daha basit, yani daha az zaman harcadığımız bir oyun yapmak istediğimiz kanatına vardık, bu yüzden görev yüküleri azaltıldı ve diğer spritnlerde daha az 
 
 # Sprint 2
 
