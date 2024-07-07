@@ -38,19 +38,21 @@ Takım 86
 - Oyunun teması, türünü, hikayesi, yazılıcak kodları belirledik. Arından yazılacak kodları ve çizilecek görselleri kendi içimizde görevlendirdik.
 - Hasan ve Asya görsel kısımı yapacakken Gamze, Gülay ve Furkan kod kısmını yapacaklar.
 
+- **Daily Scrum**:
 - Hasan Karakter düşman tasarımları yaptı.
 - Asya oyunun arka planını çizdi.
 - Kod kısmındaki arkadaşlar da hep birkilte oyunun temel kodlarını yazdılar.
-
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![image](https://github.com/Grup86/oua.2024/assets/122574054/90f498ef-ce00-4efb-9ed7-f0fbd3085b94)
 ![image](https://github.com/Grup86/oua.2024/assets/122574054/ea9a9cf7-bd77-4372-9bd8-8fa51b6ecf3f)
 
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+- **Ürün Durumu**:
+- Sonradan değiştirilecek hazır görseller ile yapılmış oynanış videosu:
+  https://streamable.com/w1y79r
+- Arka plan ve karakterler el ile birleştirilip hazırlanlış tahmini oyun içi görsel:
+ ![image](https://github.com/Grup86/oua.2024/assets/122574054/e120e032-f1d3-4f9f-a8e6-5664aaf8ef1a)
+
 
 - **Sprint Review**: 
   Pu sprintde yazlması planlanan kodların tamamı bitti ve fazladan şeyler eklendi. Oyunun büyük bir kısmı bitti.
@@ -63,7 +65,7 @@ Takım 86
   - Kod kısmı geriye kalan kodları tamamlayacak.
 
 -**Diğer Notlar**:
-- Takımcak daha basit, yani daha az zaman harcadığımız bir oyun yapmak istediğimiz kanatına vardık, bu yüzden görev yüküleri azaltıldı ve diğer spritnlerde daha az 
+- Takımcak daha basit, yani daha az zaman harcadığımız bir oyun yapmak istediğimiz kanatına vardık, bu yüzden görev yüküleri azaltıldı ve diğer spritnlerde daha az şey yapılacak.
 
 # Sprint 2
 
