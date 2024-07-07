@@ -9,31 +9,25 @@ Takım 86
 - Hasan Oğuz Kankal: Product Owner
 - Furkan Şağban: Scrum Master
 - Gamze Ekmen: Team Member/Developer
-- Gamze Ekmen: Team Member/Developer
-- Gamze Ekmen: Team Member/Developer
+- Gülay Özeşen: Team Member/Developer
+- Gökçe Asya Alkır: Team Member/Developer
 
 ## Ürün İsmi
 
---Movie App--
+- Akademi Survival
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- Vampire Survivors tarzında bir hayatta kalma oyunudur. Belirli bir alanda hareket eden oyuncu ekranın dışından gelen düşmanları öldürerek hayatta kalmaya çalışır. Her tur bir dalga düşman ortaya çıkar, eğer oyuncu dalgadaki tüm düşmanları öldürüp o tur hayatta kalırsa üç beceri geliştirmesinde birisini seçerek kendisini geliştirir. Her tur düşmanların zorluğu, sayısı artar.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+[Stickman Survival GDD dosyasının kopyası.pdf](https://github.com/user-attachments/files/16120546/Stickman.Survival.GDD.dosyasinin.kopyasi.pdf)
+
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- Roguelike türünü seven oyuncular
 
 ## Product Backlog URL
 
