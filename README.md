@@ -29,30 +29,24 @@ Takım 86
 
 - Roguelike türünü seven oyuncular
 
-## Product Backlog URL
-
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
-
 ---
 
 # Sprint 1
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint Notları**:
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- Oyunun teması, türünü, hikayesi, yazılıcak kodları belirledik. Arından yazılacak kodları ve çizilecek görselleri kendi içimizde görevlendirdik.
+- Hasan ve Asya görsel kısımı yapacakken Gamze, Gülay ve Furkan kod kısmını yapacaklar.
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
-
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
-
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+- Hasan Karakter düşman tasarımları yaptı.
+- Asya oyunun arka planını çizdi.
+- Kod kısmındaki arkadaşlar da hep birkilte oyunun temel kodlarını yazdılar.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
+![image](https://github.com/Grup86/oua.2024/assets/122574054/90f498ef-ce00-4efb-9ed7-f0fbd3085b94)
+![image](https://github.com/Grup86/oua.2024/assets/122574054/ea9a9cf7-bd77-4372-9bd8-8fa51b6ecf3f)
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
