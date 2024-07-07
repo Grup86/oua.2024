@@ -55,7 +55,7 @@ Grup 86
 
 
 - **Sprint Review**: 
-  Pu sprintde yazlması planlanan kodların tamamı bitti ve fazladan şeyler eklendi. Oyunun büyük bir kısmı bitti.
+  Bu sprintde yazlması planlanan kodların tamamı bitti ve fazladan şeyler eklendi. Oyunun büyük bir kısmı bitti.
   İletişim için discord yetersiz kalındığı kanatına varıldı. İletişim kopukluğuna önelem almak için whatsapp grubu oluşturulucak ve toplantılar en az bir iki gün önceden planlanacak.
   
 
