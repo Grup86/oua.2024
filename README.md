@@ -6,11 +6,11 @@ Takım 86
 
 ## Takım Elemanları
 
-- Hasan Oğuz Kankal: Product Owner
-- Furkan Şağban: Scrum Master
+- Hasan Oğuz Kankal: Product Owner/Artist
+- Furkan Şağban: Scrum Master/Developer
 - Gamze Ekmen: Team Member/Developer
 - Gülay Özeşen: Team Member/Developer
-- Gökçe Asya Alkır: Team Member/Developer
+- Gökçe Asya Alkır: Team Member/Artist
 
 ## Ürün İsmi
 
