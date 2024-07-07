@@ -22,7 +22,7 @@ Takım 86
 
 ## Ürün Özellikleri
 
-[Stickman Survival GDD dosyasının kopyası.pdf](https://github.com/user-attachments/files/16120546/Stickman.Survival.GDD.dosyasinin.kopyasi.pdf)
+[Akademi Survival GDD.pdf](https://github.com/user-attachments/files/16120557/Akademi.Survival.GDD.pdf)
 
 
 ## Hedef Kitle
